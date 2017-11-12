@@ -1,0 +1,13 @@
+.uno, .dos{
+  height: 100px;
+  margin: 10px;
+}
+
+.uno {
+  background: #FFC107;
+}
+
+.dos {
+  background: #000000;
+  color: #ffffff;
+}

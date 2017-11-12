@@ -1,0 +1,13 @@
+.uno, .dos{
+  display: inline;
+  height: 300px;
+}
+
+.uno {
+  background: #FFC107;
+}
+
+.dos {
+  background: #000000;
+  color: #ffffff;
+}
